@@ -1,13 +1,13 @@
 {
   "pages": [
     "pages/index/main",
-    "pages/logs/main",
-    "pages/counter/main"
+    "pages/overview/main",
+    "pages/detail/main"
   ],
   "window": {
     "backgroundTextStyle": "light",
     "navigationBarBackgroundColor": "#efefef",
-    "navigationBarTitleText": "详情",
+    "navigationBarTitleText": "设置",
     "navigationBarTextStyle": "black"
   }
 }
